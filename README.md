@@ -1,7 +1,7 @@
 DoubleBack Example
 ==================
 
-Example of a `DoubleBack` pattern implementation.
+Example of a "DoubleBack" pattern implementation.
 
 Developed By
 ------------
